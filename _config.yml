@@ -119,15 +119,16 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
+  Twitter: https://twitter.com/cderek_one || twitter
+  Facebook: https://www.facebook.com/derekchengone || facebook
   GitHub: https://github.com/cderek || github
   E-Mail: mailto:pealstyle@gmail.com || envelope
-  #Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/cderek_one || twitter
+  Dribbble: https://dribbble.com/cderek || dribbble
+  Weibo: https://weibo.com/chengeekr || weibo
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
